@@ -1,0 +1,355 @@
+.navbar-fixed-top .nav {
+   padding: 2% 13%;
+   
+}
+.dropdown-menu{
+      -webkit-box-shadow: none;
+    box-shadow:none;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+	
+    font-size: 18px;
+    line-height: 1.2em;
+    /* padding: 21%; */
+    text-align: center;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color:#a0ce4e;
+}
+
+.nav>li {
+    position: relative;
+    display: inline-block;
+    left: 44%;
+}	
+.courses{
+	text-align:center;
+	height:550px;
+}
+h2{
+	font-size:38px;
+	line-height:1.2em;
+	text-align:center;
+	padding-top:8%;
+}
+.institute{
+	height:500px;
+	padding-right:0px;
+	background:#f2f2f2;
+}
+.info{
+	
+	padding-left:0px;
+	padding-right:0px;
+}
+.imageinfo{
+	padding-right:0px;
+}
+.about_academy{
+	margin: 0 0 10px;
+    font-size: 24px;
+    /* margin: 2% 20%; */
+    text-align: center;
+    line-height: 2.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer {
+    float: left;
+    display: inline;
+    width: 100%;
+}
+.footer-top {
+    background-color: #f8f8f8;
+    border-top: 2px solid #e9e9e9;
+    display: inline;
+    float: left;
+    min-height: 100px;
+    padding: 45px 0;
+    width: 100%;
+}
+.single-footer-widget {
+    float: left;
+    display: inline;
+    width: 100%;
+    padding: 0 10px;
+    color: #555;
+}
+.single-footer-widget .section-heading > h2 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height: 25px;
+}
+/*--h2 {
+    color: #313338;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+    padding-bottom: 10px;
+}---*/
+.single-footer-widget .line {
+    margin: 0 0 20px;
+}
+.single-footer-widget .section-heading {
+    text-align: left;
+}
+.section-heading {
+    float: left;
+    display: inline;
+    width: 100%;
+    text-align: center;
+}
+.single-footer-widget {
+    float: left;
+    display: inline;
+    width: 100%;
+    padding: 0 10px;
+    color: #555;
+}
+
+
+
+
+
+.footer-middle {
+  background-color: #f3f3f3;
+  display: inline;
+  float: left;
+  padding: 25px 0;
+  width: 100%;
+}
+.footer-copyright{
+	float: left;
+	display: inline;
+	width: 100%;
+}
+.footer-copyright>p{
+	margin-bottom: 0px;
+	font-size: 16px;
+}
+.footer-copyright>p>a{
+	text-decoration: none;
+    outline: none;
+    border-bottom: 1px transparent;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s
+}
+.footer-social{
+	float: left;
+	display: inline;
+	width: 100%;
+	text-align: right;
+}
+.footer-social a {  
+	display: inline-block;
+	float: none;
+	font-size: 15px;
+	height: 30px;
+	line-height: 29px;
+	margin: 0 3px;
+	text-align: center;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	width: 35px
+}
+.footer-bottom {
+  background-color: #fff;
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 20px 0 ;
+  text-align: center;
+}
+.footer-bottom p{
+	margin-bottom: 0px;
+	font-size: 15px;
+}
+.footer-bottom p a {
+	border-bottom: 1px solid #ccc;
+	outline: medium none;
+	padding-bottom: 2px;
+	text-decoration: none;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+#testimonial, #application{
+	height:500px;
+}
+
+.service_section1, .service_section2{
+	padding-top:7%;
+	padding-bottom:7%;
+}
+.service_section2{
+	padding-bottom:10%;
+}
+figure.snip1232 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 220px;
+  max-width: 310px;
+  width: 100%;
+  color: #333;
+  text-align: left;
+  box-shadow: none !important;
+}
+figure.snip1232 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+figure.snip1232 img {
+  max-width: 100%;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  margin-right: 5px;
+  display: block;
+  z-index: 1;
+  position: absolute;
+  right: 50%;
+}
+figure.snip1232 blockquote {
+  margin: 0;
+  display: block;
+  border-radius: 8px;
+  position: relative;
+  background-color: #fafafa;
+  padding: 65px 50px 35px 50px;
+  font-size: 0.8em;
+  font-weight: 500;
+  margin: -40px 0 0;
+  line-height: 1.6em;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+figure.snip1232 blockquote:before,
+figure.snip1232 blockquote:after {
+  font-family: 'FontAwesome';
+  content: "\201C";
+  position: absolute;
+  font-size: 50px;
+  opacity: 0.3;
+  font-style: normal;
+}
+figure.snip1232 blockquote:before {
+  top: 55px;
+  left: 20px;
+}
+figure.snip1232 blockquote:after {
+  content: "\201D";
+  right: 20px;
+  bottom: 5px;
+}
+figure.snip1232 .author {
+  margin: 0;
+  height: 80px;
+  display: block;
+  text-align: left;
+  padding: 0 35px;
+  position: relative;
+  z-index: 1;
+}
+figure.snip1232 .author h5,
+figure.snip1232 .author span {
+  left: 50%;
+  position: absolute;
+  opacity: 0.8;
+  padding: 3px 5px;
+}
+figure.snip1232 .author h5 {
+  text-transform: uppercase;
+  bottom: 50%;
+  margin: 0;
+  font-weight: 800;
+  color: #ffffff;
+}
+figure.snip1232 .author span {
+  font-size: 0.8em;
+  color: #000000;
+  top: 50%;
+  font-weight: 500;
+}
+.application_info{
+	font-size:18px;
+	text-align:center;
+	padding-top:1%;
+}
+#application{
+	position:relative;
+	background:#00b3b3;
+}
+button.get_started{
+	top:33px;
+	left:45%;
+	position:relative;
+	border-radius:36px;
+	font-size:26px;
+}
+.service-icons{
+	
+	vertical-align:center;
+	position:relative;
+	
+}
+img{
+	min-width:60px;
+	
+}
+.service-card{
+	position:relative;
+}
+
+.service-info{
+	position: absolute;
+    left: 110px;
+}
+/*********************************Large Device********************************/
+@media only screen and (min-width:1051px) and (max-width:2050px){
+	.service-icons{
+	
+	
+	
+	}
+	.service-card{
+		
+	}
+}
+
+
+/*********************************Medium devices- Tablets********************************/	
+	
+@media only screen and (min-width:751px) and (max-width:1050px) {}	
+
+/********************************Small devices- Tablets********************************/
+@media only screen and (min-width:241px) and (max-width:750px) {
+	.service-icons{
+		    position: relative;
+    max-width: 60px;
+    margin-top: 65%;
+	
+	
+	}
+}
+
